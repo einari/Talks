@@ -8,6 +8,10 @@ This folder contains the samples shown at the NDC Oslo Community Tuesday 2024.
 * Docker Desktop or similar
 * NodeJS
 
+## Presentation slides
+
+The actual presentation slides can be found as a PDF [here](./Presentation/Building%20Reactive%20apps%20One%20event%20at%20a%20time.pdf).
+
 ## Before you run anything
 
 At the root of this talk you'll find a file called `docker-compose.yml`.
