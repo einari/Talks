@@ -1,0 +1,7 @@
+[
+    {
+        "name": "Chronicle",
+        "path": "${workspaceFolder}",
+        "outputPath": "${workspaceFolder}/bin/Debug/net8.0/UserSystem.dll"
+    }
+]

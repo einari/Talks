@@ -1,0 +1,23 @@
+.marble-actions {
+    display: flex;
+    align-items: flex-start;
+    position: relative;
+}
+
+.marble-actions > *:not(:last-child) {
+    margin-right: 16px;
+}
+    
+.marble-legend {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    position: relative;
+}
+
+.marble-legend-button {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

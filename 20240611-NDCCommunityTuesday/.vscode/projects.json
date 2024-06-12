@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Chronicle",
+        "path": "${workspaceFolder}/Chronicle/Main",
+        "outputPath": "${workspaceFolder}/Chronicle/Main/bin/Debug/net8.0/UserSystem.dll"
+    },
+    {
+        "name": "Observables Sample",
+        "path": "${workspaceFolder}/Sample",
+        "outputPath": "${workspaceFolder}/Sample/bin/Debug/net8.0/Sample.dll"
+    },
+    {
+        "name": "Observables",
+        "path": "${workspaceFolder}/Observables/Main",
+        "outputPath": "${workspaceFolder}/Observables/Main/bin/Debug/net8.0/Observables.dll"
+    }
+]

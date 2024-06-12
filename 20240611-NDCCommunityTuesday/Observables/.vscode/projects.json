@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Observables Sample",
+        "path": "${workspaceFolder}/Sample",
+        "outputPath": "${workspaceFolder}/Sample/bin/Debug/net8.0/Sample.dll"
+    },
+    {
+        "name": "Observables",
+        "path": "${workspaceFolder}/Main",
+        "outputPath": "${workspaceFolder}/Main/bin/Debug/net8.0/Observables.dll"
+    }
+]

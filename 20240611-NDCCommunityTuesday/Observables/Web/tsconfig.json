@@ -1,0 +1,48 @@
+{
+    "compilerOptions": {
+        "target": "ES2021",
+        "useDefineForClassFields": true,
+        "lib": [
+            "ES2020",
+            "ES2021.WeakRef",
+            "DOM",
+            "DOM.Iterable"
+        ],
+        "module": "ESNext",
+        "skipLibCheck": true,
+        "moduleResolution": "bundler",
+        "resolveJsonModule": true,
+        "isolatedModules": true,
+        "noEmit": true,
+        "jsx": "react-jsx",
+        "allowUmdGlobalAccess": true,
+        "strict": true,
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "noFallthroughCasesInSwitch": true,
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "allowSyntheticDefaultImports": true,
+        "esModuleInterop": true,
+        "baseUrl": "./",
+        "paths": {
+            "API/*": [
+                "./API/*"
+            ],
+            "Components/*": [
+                "Components/*"
+            ]
+        }
+    },
+    "include": [
+        "global.d.ts",
+        "**/*.{ts,tsx}"
+    ],
+    "exclude": [
+    ],
+    "references": [
+        {
+            "path": "./tsconfig.node.json"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+.marble {
+    width: 50px;
+    /* Increase the size of the marbles */
+    height: 50px;
+    /* Increase the size of the marbles */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    margin: 0 30px;
+    background-color: lightgray;
+    font-size: 16px;
+    /* Increase the font size */
+    color: white;
+    position: relative;
+    z-index: 1;
+}
+
+.marble.a {
+    background-color: red;
+}
+
+.marble.b {
+    background-color: blue;
+}
+
+.marble.c {
+    background-color: green;
+}
+
+.marble.d {
+    background-color: orange;
+}
+
+.marble.vertical-bar {
+    background-color: transparent;
+    color: black;
+}
+
+.marble.dash {
+    width: 50px;
+    height: 2px;
+    /* Make the dash visible */
+    background-color: transparent;
+    /* No background color for dashes */
+}

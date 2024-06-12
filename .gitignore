@@ -44,7 +44,6 @@ dlldata.c
 project.lock.json
 project.fragment.lock.json
 artifacts/
-**/Properties/launchSettings.json
 
 *_i.c
 *_p.c
@@ -291,12 +290,12 @@ wwwroot
 out
 
 .pnp.*
-.yarn/*
-!.yarn/patches
-!.yarn/plugins
-!.yarn/releases
-!.yarn/sdks
-!.yarn/versions
+**/.yarn/*
+**/!.yarn/patches
+**/!.yarn/plugins
+**/!.yarn/releases
+**/!.yarn/sdks
+**/!.yarn/versions
 yarn.lock
 
 .DS_Store

@@ -1,0 +1,20 @@
+.marble-diagram {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    position: relative;
+}
+
+.marble-diagram::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 0;
+    right: 0;
+    height: 2px;
+    /* Line thickness */
+    background-color: black;
+    /* Line color */
+    z-index: 0;
+}
+
