@@ -14,6 +14,9 @@ Below are all the links shared in the presentation
 - [Cratis](https://cratis.io)
 - [Cratis Vertical Slices MCP](https://github.com/Cratis/VerticalSlices)
 - [Cratis Chronicle MCP](https://github.com/Cratis/Chronicle.Mcp)
+- [Context7 MCP](https://github.com/upstash/context7)
+- [MCP Registry](https://blog.modelcontextprotocol.io/posts/2025-09-08-mcp-registry-preview/)
+- [GitHub MCP Registry](https://github.com/mcp)
 
 ## Sample
 
