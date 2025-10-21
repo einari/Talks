@@ -12,6 +12,8 @@ Below are all the links shared in the presentation
 - [Event Modeling](https://www.eventsourcingcourse.com)
 - [Awesome CoPilot](https://github.com/github/awesome-copilot)
 - [Cratis](https://cratis.io)
+- [Cratis Vertical Slices MCP](https://github.com/Cratis/VerticalSlices)
+- [Cratis Chronicle MCP](https://github.com/Cratis/Chronicle.Mcp)
 
 ## Sample
 
