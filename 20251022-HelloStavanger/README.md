@@ -10,6 +10,7 @@ Below are all the links shared in the presentation
 - [Understanding Event Sourcing](https://eventsourcingbook.com)
 - [Event Sourcing Course](https://www.eventsourcingcourse.com)
 - [Event Modeling](https://www.eventsourcingcourse.com)
+- [Awesome CoPilot](https://github.com/github/awesome-copilot)
 - [Cratis](https://cratis.io)
 
 ## Sample
