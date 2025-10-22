@@ -6,6 +6,7 @@ This folder contains the resources fr the talk done at #HelloStavanger 2025.
 
 Below are all the links shared in the presentation
 
+- [Stanford Report](https://softwareengineeringproductivity.stanford.edu/) and on [YouTube](https://www.youtube.com/watch?si=gn3Da1NiNcEzX6Yo&v=tbDDYKRFjhk)
 - [Domain Driven Design](https://martinfowler.com/bliki/DomainDrivenDesign.html)
 - [Understanding Event Sourcing](https://eventsourcingbook.com)
 - [Event Sourcing Course](https://www.eventsourcingcourse.com)
