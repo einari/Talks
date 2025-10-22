@@ -1,6 +1,7 @@
 # Hello Stavanger 2025 - Maintainable Vibe Coding
 
 This folder contains the resources fr the talk done at #HelloStavanger 2025.
+Reach out and connect with me on [LinkedIn](https://linkedin.com/in/einari).
 
 ## Resources
 
